@@ -1,2 +1,2 @@
 # ED
-C projects made in the discipline of "Data Struture" at the University of Brasília. Year 2016.
+C projects made in the discipline of "Data Structure" at the University of Brasília. Year 2016.
